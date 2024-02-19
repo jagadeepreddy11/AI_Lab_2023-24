@@ -50,7 +50,7 @@ bfs(visited, graph, '5')    # function calling
 
 
 ### Output:
-((https://github.com/Vikhram-S/AI_Lab_2023-24/raw/main/output.bfs.pdf)
+https://github.com/Vikhram-S/AI_Lab_2023-24/raw/main/output.bfs.pdf
 
 
 ### Result:
