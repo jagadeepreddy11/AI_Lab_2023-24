@@ -43,7 +43,7 @@ dfs(visited,graph,'5')
 
 
 ### Output:
-
+![output] output.bfs.pdf
 
 
 ### Result:
