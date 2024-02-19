@@ -50,8 +50,9 @@ bfs(visited, graph, '5')    # function calling
 
 
 ### Output:
-output.bfs.pdf
+
 ![output](bfs.pdf)
+[bfs.pdf](https://github.com/Vikhram-S/AI_Lab_2023-24/files/14334827/bfs.pdf)
 
 
 ### Result:
