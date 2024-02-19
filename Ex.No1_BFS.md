@@ -51,7 +51,7 @@ bfs(visited, graph, '5')    # function calling
 
 ### Output:
 output.bfs.pdf
-
+![output](bfs.pdf)
 
 
 ### Result:
