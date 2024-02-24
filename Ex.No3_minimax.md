@@ -52,6 +52,5 @@ print(minimax(0, 0, True, scores,treeDepth))
 
 
 
-
 ### Result:
 Thus the optimum value of max player was found using minimax search.
