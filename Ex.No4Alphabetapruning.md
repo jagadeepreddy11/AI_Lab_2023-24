@@ -66,7 +66,7 @@ print("The optimal value is :", minimax(0, 0, True, values, MIN, MAX))
 
 
 ### Output:
-https://github.com/Vikhram-S/AI_Lab_2023-24/blob/main/output.alphabeta.pdf
+https://github.com/Vikhram-S/AI_Lab_2023-24/blob/54cb69b9292488ca732def32c547817a692101a3/output.alpha%20beta.pdf
 
 
 
