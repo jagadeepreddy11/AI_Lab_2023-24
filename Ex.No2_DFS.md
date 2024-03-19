@@ -43,7 +43,8 @@ dfs(visited,graph,'5')
 
 
 ### Output:
-https://github.com/Vikhram-S/AI_Lab_2023-24/blob/main/output.dfs.pdf
+![Screenshot (27)](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/7447ef2a-7276-4810-9f2a-6382a6063cd5)
+
 
 
 ### Result:
