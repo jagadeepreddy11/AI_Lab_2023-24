@@ -49,7 +49,8 @@ print(minimax(0, 0, True, scores,treeDepth))
 
 
 ### Output:
-https://github.com/Vikhram-S/AI_Lab_2023-24/blob/main/output.minimax.pdf
+![Screenshot (29)](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/adcb68a3-5c92-4ffb-be05-6645b019cabf)
+
 
 
 
