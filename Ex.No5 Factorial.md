@@ -24,8 +24,7 @@ factorial(A,B):-
 
 
 ### Output:
-![Screenshot (31)](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/f216e044-7d98-491b-b8d9-c59852fdf60d)
-
+![Screenshot (31)](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/0d098eac-7ae8-4b29-bc3a-76f8b576add7)
 
 
 
