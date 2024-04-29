@@ -11,6 +11,7 @@ Step 4: Specify the actions GOTO, CLIMB, PUSH-BOX, GET-KNIFE, GRAB-BANANAS in Mo
 Step 5:   Define a problem for Monkey Banana problem.<br> 
 Step 6:  Obtain the plan for given problem.<br> 
 Step 7: Stop the program.<br> 
+
 ### Program:
 ```
 (define (domain monkey)	       
@@ -62,6 +63,7 @@ Step 7: Stop the program.<br>
 				 (onbox ?y))
 	     :effect (haswater)))
 ```
+
 ### Input :
 ```
 (define (problem pb1)
