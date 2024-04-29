@@ -62,15 +62,6 @@ Step 7: Stop the program.<br>
 				 (onbox ?y))
 	     :effect (haswater)))
 ```
-
-
-
-
-
-
-
-
-
 ### Input :
 ```
 (define (problem pb1)
@@ -92,10 +83,15 @@ Step 7: Stop the program.<br>
 
 ### Output/Plan:
 ![Screenshot 2024-04-29 092324](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/f7a3bbb5-0d9b-43c1-bf38-9e1171e142af)
+
 ![Screenshot 2024-04-29 092338](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/40b25c93-136c-410d-9b89-95ee5000b995)
+
 ![Screenshot 2024-04-29 092352](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/5867317a-726e-4940-b219-23c9edcaebf0)
+
 ![Screenshot 2024-04-29 092405](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/cb8a826d-b025-4dc0-8348-12ea863ef04d)
+
 ![Screenshot 2024-04-29 092416](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/9842351f-7a74-4c32-8523-0db328bcf00c)
+
 ![Screenshot 2024-04-29 092429](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/cd4fe5d4-bbfc-4f4a-be73-2517abc10869)
 
 
