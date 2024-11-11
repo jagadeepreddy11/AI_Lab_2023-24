@@ -1,6 +1,6 @@
 # Ex.No: 8  Logic Programming –  Medical Diagnosis Expert System
-### DATE: 23.03.2024                                                                            
-### REGISTER NUMBER : 212222060295 
+### DATE:                                                                            
+### REGISTER NUMBER : 212221040097
 ### AIM: 
 Write a Prolog program to build a medical Diagnosis Expert System.
 ###  Algorithm:
@@ -15,36 +15,36 @@ Write a Prolog program to build a medical Diagnosis Expert System.
 
 ### Program:
 ```
-hypothesis(Patient,german_measles) :-
-	symptom(Patient,fever),
-	symptom(Patient,headache),
-	symptom(Patient,runny_nose),
-	symptom(Patient,rash).
-hypothesis(Patient,flu) :-
-        symptom(Patient,fever),
-       symptom(Patient,headache),
-	symptom(Patient,body_ache),
-	symptom(Patient,conjunctivitis),
-	symptom(Patient,chills),
-	symptom(Patient,sore_throat),
-	symptom(Patient,runny_nose),
-	symptom(Patient,cough).
-hypothesis(Patient,common_cold) :-
-	symptom(Patient,headache),
-	symptom(Patient,sneezing),
-	symptom(Patient,sore_throat).
-hypothesis(Patient,chicken_pox) :-
-	symptom(Patient,fever),
-	symptom(Patient,chills),
-	symptom(Patient,body_ache),
-	symptom(Patient,rash).
-hypothesis(Patient,measles) :-
-	symptom(Patient,cough),
-	symptom(Patient,sneezing),
-	symptom(Patient,runny_nose).
-symptom(raju,headache).
-symptom(raju,sneezing).
-symptom(raju,sore_throat).
+hypothesis(Patient, german_measles) :-
+symptom(Patient, fever),
+symptom(Patient, headache),
+symptom(Patient, runny_nose),
+symptom(Patient, rash).
+hypothesis(Patient, flu) :-
+symptom(Patient, fever),
+symptom(Patient, headache),
+symptom(Patient, body_ache),
+symptom(Patient, conjunctivitis),
+symptom(Patient, chills),
+symptom(Patient, sore_throat),
+symptom(Patient, runny_nose),
+symptom(Patient, cough).
+hypothesis(Patient, common_cold) :-
+symptom(Patient, headache),
+symptom(Patient, sneezing),
+symptom(Patient, sore_throat).
+hypothesis(Patient, chicken_pox) :-
+symptom(Patient, fever),
+symptom(Patient, chills),
+symptom(Patient, body_ache),
+symptom(Patient, rash).
+hypothesis(Patient, measles) :-
+symptom(Patient, cough),
+symptom(Patient, sneezing),
+symptom(Patient, runny_nose).
+symptom(raju, headache).
+symptom(raju, sneezing).
+symptom(raju, sore_throat).
 ```
 
 
@@ -56,10 +56,8 @@ symptom(raju,sore_throat).
 
 
 
-
-
 ### Output:
-![Screenshot (36)](https://github.com/Vikhram-S/AI_Lab_2023-24/assets/146576573/51224685-6269-4428-b8f8-cf4dcb8446bd)
+![image](https://github.com/Rajithxx/AI_Lab_2023-24/assets/148357145/e80e11c4-d713-4954-b2c4-4565ca6c5623)
 
 
 
